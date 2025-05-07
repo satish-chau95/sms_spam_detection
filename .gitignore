@@ -1,0 +1,29 @@
+# Ignore the virtual environment folder
+.venv/
+**/.venv/
+
+# Python-related directories and files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.pyi
+
+# Ignore site-packages directories (if needed)
+etc/
+Script/
+share/
+include/
+Lib/
+
+# Ignore model files
+*.pkl
+*.pickle
+
+# Ignore environment variables
+.env
+*.env
+
+# Ignore system files (e.g., macOS, Windows)
+.DS_Store
+Thumbs.db
