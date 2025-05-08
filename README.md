@@ -95,4 +95,4 @@ sms_spam_detection/
 python app.py
 ```
 
-made with ❤️ by satish
+made with ❤️ by Satish
