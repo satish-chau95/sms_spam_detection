@@ -11,7 +11,7 @@ __pycache__/
 
 # Ignore site-packages directories (if needed)
 etc/
-Script/
+Scripts/
 share/
 include/
 Lib/
