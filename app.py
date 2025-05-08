@@ -5,7 +5,7 @@ import nltk
 from nltk.corpus import stopwords
 from nltk.stem.porter import PorterStemmer
 
-nltk.data.path.append('nltk_data')  # Use locally stored NLTK data
+nltk.data.path.append('./nltk_data')
 
 
 app = Flask(__name__)
