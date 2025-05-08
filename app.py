@@ -5,8 +5,8 @@ import nltk
 from nltk.corpus import stopwords
 from nltk.stem.porter import PorterStemmer
 
-nltk.download('punkt')
-nltk.download('stopwords')
+nltk.data.path.append('nltk_data')  # Use locally stored NLTK data
+
 
 app = Flask(__name__)
 

@@ -16,9 +16,6 @@ share/
 include/
 Lib/
 
-# Ignore model files
-*.pkl
-*.pickle
 
 # Ignore environment variables
 .env
